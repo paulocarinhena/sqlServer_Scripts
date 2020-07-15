@@ -172,5 +172,5 @@ SELECT  FORMAT(CONVERT(DATETIME, GETDATE()), 'dd/MM/yyyy hh:mm') AS 'DATA TIME',
 		FORMAT(CONVERT(DATETIME, GETDATE()), 'dd/MM/yyyy') AS 'DATA',
 		FORMAT(CONVERT(DATETIME, GETDATE() ), 'hh:mm') AS 'TIME'
 
-crédito:
-https://github.com/ThomazRossito
+--crédito de algumas funções:
+--https://github.com/ThomazRossito
