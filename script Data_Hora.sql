@@ -171,3 +171,6 @@ SELECT  FORMAT(CAST(GETDATE() AS DATETIME), 'dd/MM/yyyy hh:mm') AS 'DATA TIME',
 SELECT  FORMAT(CONVERT(DATETIME, GETDATE()), 'dd/MM/yyyy hh:mm') AS 'DATA TIME',
 		FORMAT(CONVERT(DATETIME, GETDATE()), 'dd/MM/yyyy') AS 'DATA',
 		FORMAT(CONVERT(DATETIME, GETDATE() ), 'hh:mm') AS 'TIME'
+
+crédito:
+https://github.com/ThomazRossito
